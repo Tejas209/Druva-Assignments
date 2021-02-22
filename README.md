@@ -8,7 +8,8 @@ Go till the tests folder path and run test_HomePage using py.test -s -v command
 
 Assignment 4 - Run "A4.py" 
 
-Assignment 5 - Run "Plugin_assignment.py"
+Assignment 5 - Open folder "pytest plugin" > Open in terminal > Run command "pytest --testplan=testplan.csv"
+testplan.csv will generate and can be seen inside "pytest plugin" folder 
 
 Assignment 6 - Check "Assignment - 6.odt"
 
