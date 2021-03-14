@@ -1,7 +1,7 @@
 import pytest
 from selenium import webdriver
 
-
+"""fixture to invoke browser"""
 @pytest.fixture(scope="class")
 def setup(request):
     path = "/home/tejas/Downloads/chromedriver_linux64/chromedriver"

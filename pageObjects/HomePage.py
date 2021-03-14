@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 
 from pageObjects.CheckoutPage import CheckOutPage
 
+"""class contains all the webelements present in the homepage. Methods are defined to return webelements"""
 
 class HomePage:
 

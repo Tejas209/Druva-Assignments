@@ -1,3 +1,6 @@
+
+"""assignment on exceptions concept in python"""
+
 try:
     print('try block')
     x = 20

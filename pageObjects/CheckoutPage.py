@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
 
+"""class contains all the webelements present in the checkout page. Methods are defined to return webelements"""
+
 
 class CheckOutPage:
 

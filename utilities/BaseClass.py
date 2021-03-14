@@ -4,6 +4,8 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+"""class containing common methods like method to verify if link is present, selection of dropdown values"""
+
 
 @pytest.mark.usefixtures("setup")
 class BaseClass:
