@@ -6,7 +6,7 @@ Check "Assignment - 1.odt"
 
 **Assignment 2 & 3** - Create a POM automation framework for any web based application and implement data driven testing in it.
 Download the excel "PythonDemo.xlsx" and update the path in TestData/HomePageData.py
-Go till the tests folder path and run test_HomePage using py.test -s -v command
+Go till the tests folder path on terminal and run test_HomePage using py.test -s -v command
 
 **Assignment 4** - Read values from dynamic table and print all values
 Run "A4.py" 
