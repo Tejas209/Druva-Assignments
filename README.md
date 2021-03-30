@@ -19,6 +19,7 @@ testplan.csv will generate and can be seen inside "pytest plugin" folder
 Check "Assignment - 6.odt" 
 
 **Assignment 7** - Question: Python lang and selenium related questions
+Run "cube.py" and "Encapsulation.py"
 Check "Assignment - 7.odt"
 
 **Assignment 8** - Concept of logging and exception
